@@ -1,8 +1,8 @@
 pipeline {
     
-    agent {
-        label "linuxbuildnode"
-    }
+    // agent {
+    //     label "linuxbuildnode"
+    // }
     
     
     stages {
