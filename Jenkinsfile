@@ -14,12 +14,12 @@ pipeline {
             
         }
         
-        // stage('Build by Maven Package') {
-        //     steps {
-        //         sh 'mvn clean package'
-        //     }
+        stage('Build by Maven Package') {
+            steps {
+                sh 'mvn clean package'
+            }
             
-        // }
+        }
         
         
         // stage('Build Docker OWN image') {
