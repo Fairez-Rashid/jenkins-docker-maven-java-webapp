@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to LinuxWorld, CI CD PIPELINE PROJECT</h2>
+			<h2>Welcome to LinuxWorld, Singapore,  CI CD PIPELINE PROJECT</h2>
 			<h3> Republic Polytechnic @ Sachi and team </h3>
 		</div>	
 	</div>
