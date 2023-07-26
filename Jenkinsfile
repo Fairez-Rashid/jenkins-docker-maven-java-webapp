@@ -3,7 +3,7 @@ pipeline {
 stages {
     stage('SCM') {
         steps {
-            git branch: 'master', url: 'https://github.com/Fairez-Rashid/jenkins-docker-maven-java-webapp.git'
+            git branch: 'master', url: 'https://github.com/20027623-Sachin-Dev/jenkins-docker-maven-java-webapp.git'
         }
     }
 
