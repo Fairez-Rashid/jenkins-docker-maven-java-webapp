@@ -28,8 +28,7 @@ pipeline {
             steps {
                 ansiblePlaybook become: true, becomeUser: 'ubuntu', credentialsId: 'b8a8581d-123c-4d42-9879-17f89591ca81', installation: 'ansible', inventory: '/home/ubuntu/inventory/inventory.ini', playbook: '/home/ubuntu/del.yml'
 
-     }
-
-    }
-}
+            }
+        }
+    }
 }
