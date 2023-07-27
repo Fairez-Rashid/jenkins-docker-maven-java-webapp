@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Create a CI/CD pipeline for a web application</a>
 		</div>
 	</div>
 </nav>
