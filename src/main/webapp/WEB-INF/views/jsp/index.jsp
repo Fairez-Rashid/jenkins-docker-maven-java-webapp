@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome to LinuxWorld, Singapore,  CI CD PIPELINE PROJECT</h2>
-			<h3> Republic Polytechnic FYP c300 @ Sachi and team </h3>
+			<h3> Republic Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; LW 2022</p>
+		<p>&copy; LW 2023</p>
 	</footer>
 </div>
 
