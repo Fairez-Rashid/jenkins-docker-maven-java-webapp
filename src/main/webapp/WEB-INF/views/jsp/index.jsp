@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+			<img src="https://media.licdn.com/dms/image/D4D12AQHST_rCJfp4JQ/article-cover_image-shrink_720_1280/0/1664373479168?e=2147483647&v=beta&t=FHd1kLlK0_3XVhF7tkxI0zvE2vdKPOtiEHqOaNBDl1o">
 		</p>
 	</div>
 </div>
