@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<img src="https://media.licdn.com/dms/image/D4D12AQHST_rCJfp4JQ/article-cover_image-shrink_720_1280/0/1664373479168?e=2147483647&v=beta&t=FHd1kLlK0_3XVhF7tkxI0zvE2vdKPOtiEHqOaNBDl1o" style="width:200px;height:150px">
+			<img src="https://media.licdn.com/dms/image/D4D12AQHST_rCJfp4JQ/article-cover_image-shrink_720_1280/0/1664373479168?e=2147483647&v=beta&t=FHd1kLlK0_3XVhF7tkxI0zvE2vdKPOtiEHqOaNBDl1o" style="width:500px;height:250px">
 		</p>
 	</div>
 </div>
