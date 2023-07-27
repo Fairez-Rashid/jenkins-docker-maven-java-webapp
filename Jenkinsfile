@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout SCM') {
             steps {
-                git 'https://github.com/20027623-Sachin-Dev/jenkins-docker-maven-java-webapp.git'
+                git 'https://github.com/Fairez-Rashid/jenkins-docker-maven-java-webapp.git'
                 sh "echo source code downloaded "
                 
             }
@@ -20,7 +20,7 @@ pipeline {
         stage('Maven package') {
             steps {
                 sh "mvn package -Dmaven.test.skip=true"
-                sh "mv /var/lib/jenkins/workspace/dockerpipeline/target/java-web-app-1.0.war /var/lib/jenkins/workspace/jenkinsci/target/simple.war " 
+                sh "mv /var/lib/jenkins/workspace/jenkinsci/target/java-web-app-1.0.war /var/lib/jenkins/workspace/jenkinsci/target/simple.war " 
             }
         }
 
