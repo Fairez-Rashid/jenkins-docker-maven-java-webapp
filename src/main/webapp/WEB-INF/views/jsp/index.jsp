@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome to LinuxWorld, Singapore,  CI CD PIPELINE PROJECT</h2>
-			<h3> Republic Polytechnic FYP c300 @ Sachin and team </h3>
+			<h3> Republic Polytechnic FYP c300 @ Sachin43523523 and team </h3>
 		</div>	
 	</div>
 
