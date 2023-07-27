@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Implement CI CD Pipeline for a Web Application</a>
 		</div>
 	</div>
 </nav>
@@ -24,7 +24,7 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello ${msg}
+				Hello World
 			</c:if>
 
 			<c:if test="${empty msg}">
@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome to LinuxWorld, Singapore,  CI CD PIPELINE PROJECT</h2>
-			<h3> Republic Polytechnic FYP c300 @ Sachin43523523 and team </h3>
+			<h3> Republic Polytechnic FYP c300 @ Sachin and team </h3>
 		</div>	
 	</div>
 
