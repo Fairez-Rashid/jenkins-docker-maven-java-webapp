@@ -24,7 +24,7 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello ${msg}
+				Hello World
 			</c:if>
 
 			<c:if test="${empty msg}">
@@ -45,10 +45,14 @@
 		</div>	
 	</div>
 
+	<p>
+		<button type="button" class="btn btn-primary btn-lg">ENTER</button>
+	</p>
+
 
 	<hr>
 	<footer>
-		<p>&copy; LW 2023</p>
+		<p>&copy; Contact: 88774526 or ProjectTeam@gmail.com</p>
 	</footer>
 </div>
 
