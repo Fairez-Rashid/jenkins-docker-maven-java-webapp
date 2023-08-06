@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome to Linux, Singapore, CI CD PIPELINE PROJECT</h2>
-			<!-- <span style="color: red;">This is a comment line in red color.</span> -->
+			<h3><span style="color: red;">This is a comment line in red color.</span> </h3>
 
 			<h3> Republic Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
 		</div>	
