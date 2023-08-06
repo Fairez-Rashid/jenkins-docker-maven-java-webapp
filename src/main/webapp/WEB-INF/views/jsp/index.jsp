@@ -41,7 +41,8 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome to Linux, Singapore, CI CD PIPELINE PROJECT</h2>
-			<h4><span style="color: red;">Improving software delivery throughout the software development life cycle via automation..</span> </h4>
+			<h4><i><span style="color: red;">Improving software delivery throughout the software development life cycle via automation.</span></i></h4>
+
 
 			<h3> Republic Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
 		</div>	
