@@ -44,7 +44,11 @@
 			<h4><i><span style="color: red;">Improving software delivery throughout the software development life cycle via automation.</span></i></h4>
 
 
+<<<<<<< HEAD
 			<h3> Republic Polytechnic FYP C300 @ Team : SOI-2023-0086   HII FACI </h3>
+=======
+			<h3> Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
+>>>>>>> c08eae3347319099d2382aae2dc516a33a132464
 		</div>	
 	</div>
 
