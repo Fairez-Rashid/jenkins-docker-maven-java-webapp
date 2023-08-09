@@ -38,6 +38,13 @@ pipeline {
             }
         }
 
+        stage('Selenium Testing Run')  {
+            steps {
+                 sh "mvn test"
+            }
+
+        }
+
         
         
     }
