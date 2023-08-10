@@ -55,7 +55,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Contact: 88774526 or ProjectTeam@gmail.com</p>
+		<p>&copy; Contact: +65 88774526 or ProjectTeam@gmail.com</p>
 	</footer>
 </div>
 
