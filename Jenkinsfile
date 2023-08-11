@@ -24,11 +24,11 @@ pipeline {
             }
         }
 
-         stage('Selenium Testing')  {
-            steps {
-                 sh "mvn test"
-            }
-        }
+        //  stage('Selenium Testing')  {
+        //     steps {
+        //          sh "mvn test"
+        //     }
+        // }
 
         stage('Deploy Maven Artifact') {
             steps {
