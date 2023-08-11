@@ -44,7 +44,7 @@
 			<h4><i><span style="color: red;">Improving software delivery throughout the software development life cycle via automation.</span></i></h4>
 
 
-			<h3> Republic Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
+			<h3> Singapore Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
 		</div>	
 	</div>
 
