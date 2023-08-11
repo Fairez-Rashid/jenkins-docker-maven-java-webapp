@@ -18,6 +18,12 @@ pipeline {
             }
         }
 
+        stage('Selenium Testing')  {
+            steps {
+                 sh "mvn test"
+            }
+        }
+
         stage('Maven package') {
             steps {
                 sh "mvn package -Dmaven.test.skip=true"
