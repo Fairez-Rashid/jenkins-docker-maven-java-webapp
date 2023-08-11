@@ -24,7 +24,12 @@ pipeline {
                 sh "mv /var/lib/jenkins/workspace/dockerpipeline/target/java-web-app-1.0.war /var/lib/jenkins/workspace/dockerpipeline/target/simple.war " 
             }
         }
-
+       
+         stage('Selenium Testing Run')  {
+            steps {
+                 sh "mvn test"
+            }
+        }
    
  
 
