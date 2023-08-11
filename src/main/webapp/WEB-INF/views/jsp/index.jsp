@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven Jenkins Docker</title>
+<title>FYP C300</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -44,7 +44,7 @@
 			<h4><i><span style="color: red;">Improving software delivery throughout the software development life cycle via automation.</span></i></h4>
 
 
-			<h3> Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
+			<h3> Republic Polytechnic FYP C300 @ Team : SOI-2023-0086 </h3>
 		</div>	
 	</div>
 
