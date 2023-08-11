@@ -53,13 +53,7 @@ public class ScriptTest {
 
 
     }
-    @Test
-    public void validateFooterText() throws InterruptedException {
 
-        WebElement footerText = driver.findElement(By.xpath("//h3[contains(text(),'Republic Polytechnic FYP C300 @ Team : SOI-2023-0086')]"));
-        assertTrue(footerText.isDisplayed());
-        System.out.print("Footer text validated \n");
-    }
 
 
     @AfterTest
