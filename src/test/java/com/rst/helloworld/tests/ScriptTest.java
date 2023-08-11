@@ -54,13 +54,11 @@ public class ScriptTest {
 
     }
    @Test
-   public void validateFooterText(String expectedText) {
-    
-    WebElement footer = driver.findElement(By.xpath("//p[contains(text(),'" + Republic Polytechnic FYP C300 @ Team : SOI-2023-0086 +"')]"));
-    
-    assertTrue(footer.isDisplayed());
-    
-    System.out.print("Footer text validated");
+   public void validateFooterText() throws InterruptedException {
+
+        WebElement footerText = driver.findElement(By.xpath("//h3[contains(text(),'Republic Polytechnic FYP C300 @ Team : SOI-2023-0086')]"));
+        assertTrue(footerText.isDisplayed());
+        System.out.print("Footer text validated \n");
     }
 
 
