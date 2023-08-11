@@ -18,12 +18,6 @@ pipeline {
             }
         }
 
-        stage('Selenium Testing')  {
-            steps {
-                 sh "mvn test"
-            }
-        }
-
         stage('Maven package') {
             steps {
                 sh "mvn package -Dmaven.test.skip=true"
@@ -31,6 +25,11 @@ pipeline {
             }
         }
 
+        stage('Selenium Testing')  {
+            steps {
+                 sh "mvn test"
+            }
+        }
  
 
         stage('Deploy Maven Artifact on docker in remote server ') {
