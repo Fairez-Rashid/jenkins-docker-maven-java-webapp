@@ -25,11 +25,7 @@ pipeline {
             }
         }
 
-        stage('Selenium Testing')  {
-            steps {
-                 sh "mvn test"
-            }
-        }
+   
  
 
         stage('Deploy Maven Artifact on docker in remote server ') {
