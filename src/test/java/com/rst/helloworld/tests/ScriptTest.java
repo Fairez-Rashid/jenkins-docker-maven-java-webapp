@@ -61,7 +61,7 @@ public class ScriptTest {
         System.out.print("Footer text validated \n");
     }
 
-    }
+    
 
 
     @AfterTest
