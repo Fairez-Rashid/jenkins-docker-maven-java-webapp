@@ -56,7 +56,7 @@ public class ScriptTest {
    @Test
    public void validateFooterText(String expectedText) {
     
-    WebElement footer = driver.findElement(By.xpath("//p[contains(text(),'" + expectedText +"')]"));
+    WebElement footer = driver.findElement(By.xpath("//p[contains(text(),'" + Republic Polytechnic FYP C300 @ Team : SOI-2023-0086 +"')]"));
     
     assertTrue(footer.isDisplayed());
     
