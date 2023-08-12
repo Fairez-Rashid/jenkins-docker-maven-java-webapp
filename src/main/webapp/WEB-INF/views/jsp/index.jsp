@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to C300 Linux Project, Singapore, CI CD PIPELINE PROJECT</h2>
+			<h2>Welcome to Linux, Singapore, CI CD PIPELINE PROJECT</h2>
 			<h4><i><span style="color: red;">Improving software delivery throughout the software development life cycle via automation.</span></i></h4>
 
 
